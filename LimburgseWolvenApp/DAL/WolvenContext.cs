@@ -22,7 +22,6 @@ namespace LimburgseWolvenApp.DAL
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
-            modelBuilder.Entity<User>().HasOptional(u => u.Dorp);
             modelBuilder.Entity<Bewoner>().HasOptional(b => b.Rol);
         }
     }

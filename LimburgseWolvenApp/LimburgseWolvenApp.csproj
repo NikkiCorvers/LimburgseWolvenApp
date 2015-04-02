@@ -193,6 +193,7 @@
     <Compile Include="IdentityDAL\MySqlConfiguration.cs" />
     <Compile Include="IdentityDAL\MySqlHistoryContext.cs" />
     <Compile Include="IdentityDAL\MySqlInitializer.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bewoner.cs" />
     <Compile Include="Models\Dorp.cs" />
     <Compile Include="Models\Gestorvene.cs" />
