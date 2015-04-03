@@ -1,44 +1,43 @@
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.Tests.dll.config
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.Tests.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.Tests.pdb
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Newtonsoft.Json.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Helpers.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Mvc.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Razor.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\EntityFramework.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Optimization.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Owin.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.pdb
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Newtonsoft.Json.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Helpers.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Mvc.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Razor.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\EntityFramework.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Optimization.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\obj\Debug\LimburgseWolvenApp.Tests.csprojResolveAssemblyReference.cache
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\obj\Debug\LimburgseWolvenApp.Tests.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\obj\Debug\LimburgseWolvenApp.Tests.pdb
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
-D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.Tests.dll.config
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.Tests.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.Tests.pdb
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Razor.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\EntityFramework.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Owin.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\LimburgseWolvenApp.pdb
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Razor.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\EntityFramework.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\obj\Debug\LimburgseWolvenApp.Tests.csprojResolveAssemblyReference.cache
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\obj\Debug\LimburgseWolvenApp.Tests.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\obj\Debug\LimburgseWolvenApp.Tests.pdb
+D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp.Tests\bin\Debug\MySql.Data.Entity.EF6.dll

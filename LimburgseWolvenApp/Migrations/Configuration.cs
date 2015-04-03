@@ -1,6 +1,8 @@
 namespace LimburgseWolvenApp.Migrations
 {
+    using LimburgseWolvenApp.Models;
     using System;
+    using System.Collections.Generic;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
@@ -9,23 +11,49 @@ namespace LimburgseWolvenApp.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
+            SetSqlGenerator("MySql.Data.MySqlClient", new MySql.Data.Entity.MySqlMigrationSqlGenerator());
         }
 
         protected override void Seed(LimburgseWolvenApp.Models.ApplicationDbContext context)
         {
-            //  This method will be called after migrating to the latest version.
+            var reservaties = new List<Reservatie>();
+            var groepen = new List<Groep>();
+            var personen = new List<Persoon>();
+            var dorpen = new List<Dorp>();
+            Random rnd = new Random();
+            int i = 1;
+            while (i < 73)
+            {
+                var res = new Reservatie();
+                reservaties.Add(res);
+                int aantalInReservatie = rnd.Next(1, 8);
+                var groep1 = new Groep(res);
+                groepen.Add(groep1);
+                Groep groep2 = null;
+                if (aantalInReservatie > 5)
+                {
+                    groep2 = new Groep(res);
+                    groepen.Add(groep2);
+                }
+                for (int j = 1; j <= aantalInReservatie; j++)
+                {
+                    if (aantalInReservatie > 5 && j > aantalInReservatie / 2)
+                    {
+                        personen.Add(new Persoon(res, groep2, "naam" + j, "naam" + j + "@domein.com"));
+                    }
+                    else
+                    {
+                        personen.Add(new Persoon(res, groep1, "naam" + j, "naam" + j + "@domein.com"));
+                    }
+                    i++;
+                } // j
+            } // i
 
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data. E.g.
-            //
-            //    context.People.AddOrUpdate(
-            //      p => p.FullName,
-            //      new Person { FullName = "Andrew Peters" },
-            //      new Person { FullName = "Brice Lambson" },
-            //      new Person { FullName = "Rowan Miller" }
-            //    );
-            //
+            reservaties.ForEach(s => context.Reservaties.Add(s));
+            groepen.ForEach(g => context.Groepen.Add(g));
+            personen.ForEach(p => context.Personen.Add(p));
+            context.SaveChanges();
         }
     }
 }
