@@ -13,5 +13,6 @@ namespace LimburgseWolvenApp.Models
         public string Naam { get; set; }
 
         public virtual ICollection<Rol> Rollen { get; set; }
+        public virtual ICollection<Bewoner> Bewoners { get; set; }
     }
 }

@@ -199,7 +199,6 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bewoner.cs" />
     <Compile Include="Models\Dorp.cs" />
-    <Compile Include="Models\DorpSpelleider.cs" />
     <Compile Include="Models\Gestorvene.cs" />
     <Compile Include="Models\Groep.cs" />
     <Compile Include="Models\Persoon.cs" />

@@ -1,6 +1,4 @@
-﻿@model LimburgseWolvenApp.Models.Dorp
-
-@{
+﻿@{
     ViewBag.Title = "Details";
 }
 
@@ -11,16 +9,44 @@
 	<hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.Naam)
+            Naam
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.Naam)
+            @ViewBag.Dorp.Naam
         </dd>
+        <dt>
+            Spelleider
+        </dt>
 
+        <dd>
+            @ViewBag.Spelleider
+        </dd>
+        <dt>
+            Bewoners  
+        </dt>
+
+        <dd>
+            @foreach (var item in ViewBag.Dorp.Bewoners)
+            {
+                @item.Persoon.Naam
+            }
+  
+        </dd>
+        <dt>
+            Rollen
+        </dt>
+
+        <dd>
+            @foreach (var item in ViewBag.Dorp.Rollen)
+            {
+                @item.Persoon.Naam
+            }
+
+        </dd>
     </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.DorpID }) |
+    @Html.ActionLink("Edit", "Edit", new { id = ViewBag.Dorp.DorpID }) |
     @Html.ActionLink("Back to List", "Index")
 </p>

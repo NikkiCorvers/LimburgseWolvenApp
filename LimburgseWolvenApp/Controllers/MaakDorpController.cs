@@ -28,12 +28,17 @@ namespace LimburgseWolvenApp.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Dorp dorp = db.Dorpen.Find(id);
+
+            UserDorp userDorp = db.UserDorpen.FirstOrDefault(d => d.Dorp.DorpID == id);
+            ViewBag.Dorp = dorp;
+            ViewBag.Spelleider = userDorp != null ? userDorp.Spelleider.UserName : "";
+
             if (dorp == null)
             {
                 return HttpNotFound();
             }
 
-            return View(dorp);
+            return View();
         }
 
         // GET: /MaakDorp/Create
@@ -67,6 +72,7 @@ namespace LimburgseWolvenApp.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Dorp dorp = db.Dorpen.Find(id);
+
             if (dorp == null)
             {
                 return HttpNotFound();
