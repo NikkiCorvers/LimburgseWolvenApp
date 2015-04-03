@@ -112,3 +112,5 @@ D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp\bin\Syst
 D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp\obj\Debug\LimburgseWolvenApp.csprojResolveAssemblyReference.cache
 D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp\obj\Debug\LimburgseWolvenApp.dll
 D:\Google Drive\WolvenApp\LimburgseWolvenApp - kopie\LimburgseWolvenApp\obj\Debug\LimburgseWolvenApp.pdb
+D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp\bin\EntityFramework.Extended.dll
+D:\Google Drive\WolvenApp\LimburgseWolvenApp\LimburgseWolvenApp\bin\EntityFramework.Extended.xml
