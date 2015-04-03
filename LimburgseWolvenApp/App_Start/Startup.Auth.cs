@@ -32,7 +32,9 @@ namespace LimburgseWolvenApp
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication();
+            app.UseGoogleAuthentication(
+                clientId: "631570348379-docrq1njcticg91g5puf6sa7q861osna.apps.googleusercontent.com",
+                clientSecret: "leflwZyAcwfyF-MzFayb12hY");
         }
     }
 }
